@@ -22,8 +22,6 @@ function DeletePoliceped()
     end
 end
 
-
-
 RegisterNetEvent('prspre:client:openmenu', function()
     exports['qb-menu']:openMenu({
         {
