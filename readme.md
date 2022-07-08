@@ -17,4 +17,4 @@ Player.Functions.AddItem('your ammo name', how many to give )
     TriggerClientEvent("inventory:client:ItemBox", source, QBCore.Shared.Items['pistol_ammo'], "add")
     TriggerClientEvent("inventory:client:ItemBox", source, QBCore.Shared.Items['your ammo name'], "add")
 
-end)```  :)
+end)  :)
