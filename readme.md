@@ -12,7 +12,8 @@ VIDEO OF THE SCRIPT: https://streamable.com/5g07mk
 
  too add more ammo go to  server >  line75###
 
-```Player.Functions.AddItem('pistol_ammo', 12)
+```
+Player.Functions.AddItem('pistol_ammo', 12)
 Player.Functions.AddItem('your ammo name', how many to give )
     TriggerClientEvent("inventory:client:ItemBox", source, QBCore.Shared.Items['pistol_ammo'], "add")
     TriggerClientEvent("inventory:client:ItemBox", source, QBCore.Shared.Items['your ammo name'], "add")
