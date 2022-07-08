@@ -104,9 +104,6 @@ AddEventHandler('QBCore:Client:OnPlayerLoaded', function()
     SpawnPoliceped()
 end)
 
-
-
-
 AddEventHandler('onResourceStop', function(resourceName) 
 	if GetCurrentResourceName() == resourceName then
         DeletePoliceped()
