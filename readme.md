@@ -8,7 +8,7 @@ VIDEO OF THE SCRIPT: https://streamable.com/5g07mk
 
 ## PRS#4932 - PRS#4932 ##
 
-## bucko edit .. added ammo refill  so you dont have to keep getting new gun you can now just get ammo 
+## BUCKO EDIT.. added ammo refill  so you dont have to keep getting new gun you can now just get ammo 
 
  too add more ammo go to  server >  line75###
 
