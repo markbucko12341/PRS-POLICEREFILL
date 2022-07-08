@@ -67,8 +67,6 @@ RegisterNetEvent('prspre:client:openmenu', function()
     })
 end)
 
-
-
 CreateThread(function()
     exports['qb-target']:AddBoxZone("policezone", vector3(487.13, -995.75, 29.69), 0.7, 0.6,  { 
       name = "policezone",
@@ -88,8 +86,6 @@ CreateThread(function()
       distance = 1.5,
     })
   end)
-
-
 
 
 AddEventHandler('onResourceStart', function(resourceName)
